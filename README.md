@@ -1,4 +1,4 @@
-# KPMG VIRTUAL INTERN EXPERIENCE
+# KPMG Australia  - VIRTUAL INTERN EXPERIENCE (VIX)
 
 KPMG is a global organization of independent professional firms that provides various services to organizations across various industries, government, and non-profit sectors. Its service areas include Audit, Assurance & Risk Consulting; Deals, Tax & Legal; Management Consulting; and Innovation & Digital Solutions.
 
