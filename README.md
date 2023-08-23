@@ -8,9 +8,9 @@ Under the KPMG Digital Solutions service, as part of the Data, Analytics & Model
 
 The client provided KPMG with 3 datasets:
 
-Customer demographics
-Customer addresses
-Transactions
+- Customer demographics
+- Customer addresses
+- Transactions
 
 # VIX - KPMG AU TASK - 2
 # VIX - KPMG AU TASK - 3
